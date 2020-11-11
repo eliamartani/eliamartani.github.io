@@ -1,0 +1,38 @@
+{
+  "name": "eliamartani.github.io",
+  "version": "0.1.0",
+  "description": "This is my temporary permanent presentation website I guess?",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eliamartani/eliamartani.github.io.git"
+  },
+  "keywords": [],
+  "author": "Eliamar Tani <eliamartani@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eliamartani/eliamartani.github.io/issues"
+  },
+  "homepage": "https://github.com/eliamartani/eliamartani.github.io#readme",
+  "dependencies": {
+    "core-js": "^3.7.0",
+    "vue": "^3.0.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.8",
+    "@vue/cli-plugin-eslint": "~4.5.8",
+    "@vue/cli-service": "~4.5.8",
+    "@vue/compiler-sfc": "^3.0.2",
+    "@vue/eslint-config-prettier": "^6.0.0",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.13.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "eslint-plugin-vue": "^7.1.0",
+    "prettier": "^2.1.2"
+  }
+}
