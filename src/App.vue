@@ -35,16 +35,21 @@ export default defineComponent({
 
 <style>
 .app-card {
-  height: 25rem;
-  padding: 4rem;
-  width: 38rem;
+  align-items: center;
+  box-sizing: border-box;
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  width: 100%;
 }
 .app-card .vue-card__container {
   box-shadow: 0 0 50px 10px rgba(0, 0, 0, 0.2);
   border-radius: 5px;
   display: flex;
   flex-direction: column;
+  height: 25rem;
   padding: 2rem;
+  width: 38rem;
 }
 .app-card .vue-card__container h1 {
   font-size: 2.5rem;
