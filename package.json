@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/eliamartani/eliamartani.github.io#readme",
   "dependencies": {
-    "core-js": "^3.10.1",
+    "core-js": "^3.10.2",
     "vue": "^3.0.0"
   },
   "devDependencies": {
