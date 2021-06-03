@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/eliamartani/eliamartani.github.io#readme",
   "dependencies": {
-    "core-js": "^3.12.1",
+    "core-js": "^3.13.1",
     "vue": "^3.0.0"
   },
   "devDependencies": {
@@ -30,9 +30,9 @@
     "@vue/compiler-sfc": "^3.0.11",
     "@vue/eslint-config-prettier": "^6.0.0",
     "babel-eslint": "^10.1.0",
-    "eslint": "^7.26.0",
+    "eslint": "^7.27.0",
     "eslint-plugin-prettier": "^3.4.0",
-    "eslint-plugin-vue": "^7.9.0",
+    "eslint-plugin-vue": "^7.10.0",
     "prettier": "^2.3.0"
   }
 }
