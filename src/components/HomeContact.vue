@@ -38,6 +38,11 @@
   background: #121212;
   color: #f4f4f4;
 
+  @include media-query($screen-tablet) {
+    margin-left: 50%;
+    width: 50%;
+  }
+
   &__link {
     color: #fff;
 

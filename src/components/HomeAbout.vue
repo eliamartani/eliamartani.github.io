@@ -24,6 +24,10 @@
   background: #161616;
   color: #f4f4f4;
 
+  @include media-query($screen-tablet) {
+    padding-right: 50%;
+  }
+
   &__image {
     margin: 0 0 1rem;
 
