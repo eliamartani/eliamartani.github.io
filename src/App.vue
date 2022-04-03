@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import ProfileAbout from "./components/ProfileAbout.vue";
 import ProfileContact from "./components/ProfileContact.vue";
+import ProfileLinkouts from "./components/ProfileLinkouts.vue";
 import ProfilePortfolio from "./components/ProfilePortfolio.vue";
 </script>
 
@@ -13,5 +14,7 @@ import ProfilePortfolio from "./components/ProfilePortfolio.vue";
       <profile-portfolio />
       <profile-contact />
     </div>
+
+    <profile-linkouts />
   </div>
 </template>
