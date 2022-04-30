@@ -14,7 +14,11 @@
         />
       </figure>
       <div class="flex-auto my-4 md:m-6">
-        <p class="c-section__text">Software Engineer for approx. NaN years</p>
+        <p class="c-section__text">
+          Software Engineer for approx. NaN
+          <!-- i'm just kidding 😙 -->
+          years
+        </p>
         <p class="c-section__text">
           I'm passionate about software development, frontend related topics, pokémon and photography.
         </p>

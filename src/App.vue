@@ -9,7 +9,7 @@ import ProfilePortfolio from "./components/Profile/ProfilePortfolio.vue";
   <div class="bg-slate-200 box-border flex flex-col min-h-screen p-4 md:justify-center md:p-10">
     <profile-about />
     <profile-portfolio />
-    <profile-contact />
     <profile-linkouts />
+    <profile-contact />
   </div>
 </template>

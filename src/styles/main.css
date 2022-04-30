@@ -14,8 +14,12 @@
   @apply font-semibold text-emerald-800 hover:underline md:text-xl;
 }
 
+.c-section__highlight + .c-section__highlight {
+  @apply ml-6;
+}
+
 .c-section__text {
-  @apply my-2 text-xl md:text-2xl;
+  @apply my-2 text-lg md:text-xl;
 }
 
 .c-section__title {
@@ -23,7 +27,7 @@
 }
 
 .c-section-list {
-  @apply list-disc text-xl;
+  @apply list-disc text-base md:text-lg;
 }
 
 .c-section-list__emoji {
