@@ -7,6 +7,11 @@ module.exports = {
     "no-debugger": process.env.NODE_ENV === "production" ? "error" : "off",
     "vue/require-default-prop": "off",
   },
+  globals: {
+    defineProps: "readonly",
+    defineEmits: "readonly",
+    withDefaults: "readonly",
+  },
   ignorePatterns: ["env.d.ts", "node_modules/*"],
   parserOptions: {
     parser: "@typescript-eslint/parser",
