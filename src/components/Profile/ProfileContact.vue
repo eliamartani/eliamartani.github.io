@@ -17,8 +17,8 @@
       </li>
       <li class="c-section-list__item">
         <span class="c-section-list__emoji">📸</span>
-        <a href="https://www.instagram.com/el_iamar/" class="c-section-list__link" title="Instagram" target="_blank">
-          instagram.com/el_iamar
+        <a href="https://www.instagram.com/eliama_r/" class="c-section-list__link" title="Instagram" target="_blank">
+          instagram.com/eliama_r
         </a>
       </li>
       <li class="c-section-list__item">
