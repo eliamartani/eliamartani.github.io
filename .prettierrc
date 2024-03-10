@@ -1,5 +1,4 @@
 {
-  "jsxSingleQuote": false,
   "htmlWhitespaceSensitivity": "ignore",
   "printWidth": 120,
   "semi": true,
