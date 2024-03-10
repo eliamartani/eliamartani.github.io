@@ -1,5 +1,5 @@
 <template>
-  <section aria-label="About me" class="c-section">
+  <SectionCard aria-label="About me">
     <h1 class="font-bold mb-6 text-3xl text-cyan-800 md:text-4xl">Hi, I'm Eliamar 👋</h1>
 
     <div class="md:flex md:flex-row">
@@ -14,15 +14,15 @@
         />
       </figure>
       <div class="flex-auto my-4 md:m-6">
-        <p class="c-section__text">
+        <TextElement>
           Software Engineer for approx. NaN
           <!-- i'm just kidding 😙 -->
           years
-        </p>
-        <p class="c-section__text">
+        </TextElement>
+        <TextElement>
           I'm passionate about software development, frontend related topics, pokémon and photography.
-        </p>
+        </TextElement>
       </div>
     </div>
-  </section>
+  </SectionCard>
 </template>
