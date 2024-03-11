@@ -7,4 +7,10 @@ export default defineConfig({
   base: "./",
 
   plugins: [eslintPlugin(), vue()],
+
+  resolve: {
+    alias: {
+      "@": "/src",
+    },
+  },
 });
