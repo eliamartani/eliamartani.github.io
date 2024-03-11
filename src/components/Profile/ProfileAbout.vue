@@ -5,7 +5,7 @@
     <div class="md:flex md:flex-row">
       <figure class="relative md:align-middle md:flex md:flex-col md:justify-center">
         <img
-          src="../../assets/img-profile.jpeg"
+          src="@/assets/img-profile.jpeg"
           class="rounded-full transition w-36 md:w-64"
           loading="lazy"
           alt="My profile picture"
