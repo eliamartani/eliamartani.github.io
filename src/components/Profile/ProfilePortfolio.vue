@@ -7,7 +7,7 @@ function loadPortfolioImage(imageName: string) {
 </script>
 
 <template>
-  <SectionCard aria-label="Portfolio" :scale-on-hover="false">
+  <SectionCard aria-label="Portfolio">
     <TitleElement>Porfolio</TitleElement>
 
     <TextElement>
